@@ -1,8 +1,8 @@
-# Napolean
+# Napoleon
 
 *[https://en.wikipedia.org/wiki/Animal_Farm](All animals are created equal.)*
 
-Napolean is an in-progress platform game about a pig named Napolean.  Right now, the 
+Napoleon is an in-progress platform game about a pig named Napoleon.  Right now, the 
 plot is not defined, except for the fact it will pull heavily from "Animal Farm".  
 It should also be humorous, bloody, and in general inspired from "The Behemoth".
 
@@ -20,10 +20,10 @@ The original commandments are:
 
 # Characters
 
-* Napolean:  The main character - an all around jerk dictator that 
+* Napoleon:  The main character - an all around jerk dictator that 
 * Squealer:  The narrator - a young pig with a strong political opinion about 
 why the world is horrible
-* Boxer:  The workhorse - stoic blue-collar, saves Napolean in most levels
+* Boxer:  The workhorse - stoic blue-collar, saves Napoleon in most levels
 
 
 # Plot
@@ -36,10 +36,10 @@ are established as enemies.  The meeting ends and the animals go back to the far
 Three days later, Old Major dies.
 
 The world is focused around the animals revolt and throwing out of the Jones.  Mr. Jones
-is drunken and irresponsible.  He is the boss Napolean defeats at the end of the level.
+is drunken and irresponsible.  He is the boss Napoleon defeats at the end of the level.
 
-During the revolt, Napolean protects and in turn Boxer drives Napolean into the barn.  
-The final battle scene between Napolean and Mr. Jones takes place in the barn.
+During the revolt, Napoleon protects and in turn Boxer drives Napoleon into the barn.  
+The final battle scene between Napoleon and Mr. Jones takes place in the barn.
 
 Upon winning the battle, the humans run off to another farmer and seek safety from 
 the angry animals.  #pitchforksandtorches
@@ -56,13 +56,13 @@ After a short period of gathering supplies and power, animals ambush a band of f
 coming to attack the farm.  The farmers quickly scatter before any damage can be
 inflicted.  Several animals are gored and die quickly, splattering blood everywhere.
 
-Napolean must avenge their death and defends the farm defeating farmer after 
+Napoleon must avenge their death and defends the farm defeating farmer after 
 farmer in various scenes and mini battles.
 
 The world ends with a rematch with Mr. Jones.  He has better weapons and significantly
 harder to defeat.
 
-Upon winning the battle, the animals celebrate Napolean and he decrees, let's build 
+Upon winning the battle, the animals celebrate Napoleon and he decrees, let's build 
 a windmill!  With the decree a canon is fired ushering in his leadership.
 
 
@@ -72,7 +72,7 @@ a windmill!  With the decree a canon is fired ushering in his leadership.
 
 The animals band together and build the windmill.  During this world, 
 the "Commandments of Animalism" are emphasised as the animals build the windmill.
-Napolean is faced with fun physics problems and puzzles to climb the hill.  
+Napoleon is faced with fun physics problems and puzzles to climb the hill.  
 
 Upon reaching the top of the hill, the windmill is put into operation and the "All animals are equal"
 sign on the barn is lit up with vintage light bulbs.
@@ -83,7 +83,7 @@ sign on the barn is lit up with vintage light bulbs.
 ## World 4:  The Storm
 
 Fun sky level w/ the wind ripping and difficult moves to get back to the wind mill.
-Napolean gets close enough to the windmill to see it get destroyed.  Napolean ends the 
+Napoleon gets close enough to the windmill to see it get destroyed.  Napoleon ends the 
 level when he finds shelter in the base of the windmill.
 
 
