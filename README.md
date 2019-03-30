@@ -120,8 +120,8 @@ Angel is larger, Napoleon swims across the sound and meets Pixie Meat under the 
 Joins the band, rocks out several songs, culminating with the animals coming to see him.  When they see him, they start throwing fruit and trash at the stage, but he continues to rock out.  As he rocks out, he realizes the error of his ways.
 
 ### 4.4 - The Redemption
-After the show, the anmi
+After the show, the animals get aboard the bus.  Once every one is aboard, Mr Frederick tricks the bus driver and gets aboard the bus with plans to drive them
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5NzM2MDk2LDQ3MjMyNTUzMSwxNjMzOD
-AzMjA1LC00NjYyNjM2OTMsMjA2MjIwNDA0OV19
+eyJoaXN0b3J5IjpbMTY2MzM3MDA0NSw0NzIzMjU1MzEsMTYzMz
+gwMzIwNSwtNDY2MjYzNjkzLDIwNjIyMDQwNDldfQ==
 -->
