@@ -111,17 +111,17 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
 ## World 4: Road to City Hall  
   
 ### 4.1 - Highway to the City  
-Sees the angel, frogger style level.  Still standing as a human Napoleon heads
+Sees the angel, frogger style level.  Still standing as a human Napoleon heads to the city, meeting different musicians on the way.
   
 ### 4.2 - The Bridge  
-Angel is larger, swims across the sound and meets Pixie Meat under the bridge.
+Angel is larger, Napoleon swims across the sound and meets Pixie Meat under the bridge.  Pixie Meat asks him if he can play music.  Napoleon is a sweet drummer and Pixie Meat asks him to join the band.
   
 ### 4.3 - The Coup
 Joins the band, rocks out several songs, culminating with the animals coming to see him.  When they see him, they start throwing fruit and trash at the stage, but he continues to rock out.  As he rocks out, he realizes the error of his ways.
 
 ### 4.4 - The Redemption
-After 
+After the show, the anmi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwMDg5MTk3Niw0NzIzMjU1MzEsMTYzMz
-gwMzIwNSwtNDY2MjYzNjkzLDIwNjIyMDQwNDldfQ==
+eyJoaXN0b3J5IjpbMjI5NzM2MDk2LDQ3MjMyNTUzMSwxNjMzOD
+AzMjA1LC00NjYyNjM2OTMsMjA2MjIwNDA0OV19
 -->
