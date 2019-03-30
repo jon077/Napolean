@@ -34,7 +34,7 @@ The original commandments are:
 The game starts with a meeting of the animals in the barn, lead by "Old Major" where the humans are established as enemies. Boxer the horse is by Old Major's side. He helps him to the podium where he gives a speech starting the revolution. The animals, shouting and demanding freedom, leave the barn. Boxer helps Old Major back to his bed.  
   
 As the sun rises and falls over the barn, Old Major's conditions worsens. As the sun is setting for the third time, Old Major passes. Boxer mourns his death and Napoleon sparks the Rebellion.  
-  
+
   
 ### Scene 1.2 The Field  
   
@@ -127,8 +127,10 @@ On the bridge, the animals witness the final showdown where Napoleon kills Mr Fr
 THE END
 
 
-
+* [Scene 1.1: The Meeting](docs/1.1-the-meeting)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI2NzIzNDk0LDQ3MjMyNTUzMSwxNjMzOD
-AzMjA1LC00NjYyNjM2OTMsMjA2MjIwNDA0OV19
+eyJoaXN0b3J5IjpbMTEwODA5NjM4MSw2MjY3MjM0OTQsNDcyMz
+I1NTMxLDE2MzM4MDMyMDUsLTQ2NjI2MzY5MywyMDYyMjA0MDQ5
+XX0=
 -->
