@@ -94,6 +94,7 @@ On the hillside, Napoleon climbs into the trees and meets the animals. As he mee
 The wind is ripping, lightning crashing and rain falling foreboding.
 
 As the level ends, Napoleon celebrates by changing the commandments to:
+
 4.  No animal shall sleep in a bed  **with sheets.**
 5.  No animal shall drink alcohol  **to excess.**
 6.  No animal shall kill any other animal  **without cause.**
@@ -116,5 +117,5 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
   
 ### 4.3 - The Coup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzEwOTExMDMsMjA2MjIwNDA0OV19
+eyJoaXN0b3J5IjpbLTQ2NjI2MzY5MywyMDYyMjA0MDQ5XX0=
 -->
