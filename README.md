@@ -53,19 +53,19 @@ The farm is renamed "Animal Farm" and "All animals are equal" is painted in larg
 ## World 2: Battle of the Cowshed  
   
   
-### 2.1 - Animalism  
+### Scene 2.1 - Animalism  
   
 Food is plentiful, and the farm runs smoothly. Napoleon visits the farm animals and speaks to each of them. With each visit, Napoleon gives them a scroll of the "Principles of Animalism". During each visit the animal repeats one of the Principles and comments on it.  
   
   
-### 2.2 - The Ambush  
+### Scene 2.2 - The Ambush  
   
 The pigs elevate themselves to positions of leadership and set aside special food items, ostensibly for their personal health.  
   
 After a short period of gathering supplies and power, animals ambush a band of farmers coming to attack the farm. The farmers quickly scatter before any damage can be inflicted. Several animals are gored and die quickly, splattering blood everywhere.  
   
   
-### 2.3 - Avenge  
+### Scene 2.3 - Avenge  
   
 Napoleon must avenge their death and defends the farm defeating farmer after  
 farmer in various scenes and mini battles. Napoleon battles his way back to the barn.  
@@ -80,14 +80,14 @@ Upon winning the battle, the animals celebrate Napoleon and he decrees, let's bu
 ## World 3: The Windmill  
   
   
-### 3.1 - The Chase  
+### Scene 3.1 - The Chase  
   
 During this world, the "Commandments of Animalism" are emphasized in an argument between Napoleon and the animals building the windmill, gets angry, and chases the animals through fun physics problems and puzzles to climb the hill. He stands like a human as he solves the puzzles.  
   
 Upon reaching the top of the hill, the windmill is put into operation and the  "All animals are equal" sign on the barn is lit up with vintage light bulbs.  
   
   
-### 3.2 - The Storm  
+### Scene 3.2 - The Storm  
   
 On the hillside, Napoleon climbs into the trees and meets the animals. As he meets them, they either help him or not. If they do not, Napoleon kills them.
   
@@ -99,7 +99,7 @@ As the level ends, Napoleon celebrates by changing the commandments to:
 6.  No animal shall kill any other animal  **without cause.**
 
   
-### 3.3 - The Explosion  
+### Scene 3.3 - The Explosion  
   
 Mr Frederick, a neighboring farmer, attacks the farm, using blasting powder to blow up the restored windmill. Although the animals win the battle, they do so at great cost, as many, including Boxer, the workhorse, are wounded.  
 
@@ -116,5 +116,5 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
   
 ### 4.3 - The Coup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MjIwNDA0OV19
+eyJoaXN0b3J5IjpbLTEyMzEwOTExMDMsMjA2MjIwNDA0OV19
 -->
