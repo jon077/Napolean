@@ -127,10 +127,9 @@ On the bridge, the animals witness the final showdown where Napoleon kills Mr Fr
 THE END
 
 
-* [Scene 1.1: The Meeting](docs/1.1-the-meeting)
-* 
+* [Scene 1.1: The Meeting](docs/1.1-the-meeting.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODA5NjM4MSw2MjY3MjM0OTQsNDcyMz
-I1NTMxLDE2MzM4MDMyMDUsLTQ2NjI2MzY5MywyMDYyMjA0MDQ5
-XX0=
+eyJoaXN0b3J5IjpbLTEzMzM4MDU1MDIsNjI2NzIzNDk0LDQ3Mj
+MyNTUzMSwxNjMzODAzMjA1LC00NjYyNjM2OTMsMjA2MjIwNDA0
+OV19
 -->
