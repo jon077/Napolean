@@ -115,3 +115,6 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
 ### 4.2 - The Bridge  
   
 ### 4.3 - The Coup
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIwMjIwMjg5NTNdfQ==
+-->
