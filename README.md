@@ -1,9 +1,9 @@
 
 # Napoleon  
   
-*[All animals are created equal.](https://en.wikipedia.org/wiki/Animal_Farm)*
+*[All animals are created equal.](https://en.wikipedia.org/wiki/Animal_Farm)*  
   
-Napoleon is a platform game about a pig named Napoleon.  It is humorous, bloody, and in general inspired by "The Behemoth". 
+Napoleon is a platform game about a pig named Napoleon. It is humorous, bloody, and in general inspired by "The Behemoth".  
   
   
 The original commandments are:  
@@ -19,9 +19,9 @@ The original commandments are:
   
 # Characters  
   
-* Napoleon: The main character - an all around jerk dictator that  
+* Napoleon: The main character - an all around jerk dictator, rediscovers himself through his journey to the city
 * Squealer: The narrator - a young pig with a strong political opinion about why the world is horrible  
-* Boxer: The workhorse - stoic blue-collar, saves Napoleon in most levels  
+* Boxer: The workhorse - stoic blue-collar, saves Napoleon in most levels
   
   
 # Plot  
@@ -38,17 +38,16 @@ As the sun rises and falls over the barn, Old Major's conditions worsens. As the
   
 ### Scene 1.2 The Field  
   
-The animals revolt and throw out of the Jones. Napoleon battles Mr Jones's children  
-and Napoleon and Boxer chase a drunken and irresponsible Mr. Jones into the barn.  
+The animals revolt and throw out of the Jones.  In the field, Napoleon battles Mr Jones' children and Napoleon and Boxer chase a drunken and irresponsible Mr. Jones into the barn.  
   
   
 ### Scene 1.3 Throw Out Mr. Jones  
   
 The final battle scene between Napoleon and Mr. Jones takes place in the barn.  
   
-Upon winning the battle, the humans run off to another farmer and seek safety from the angry animals. **#pitchforksandtorches**
+Upon winning the battle, the humans run off to another farmer and seek safety from the angry animals. **#pitchforksandtorches**  
   
-The farm is renamed "Animal Farm" and "All animals are equal" is painted in large letters on one side of the barn. As the letters are being replaced the "Beasts of England" is played by the animal matching band.  
+The farm is renamed "Animal Farm" and "All animals are equal" is painted in large letters on one side of the barn. As the letters are being replaced the "Beasts of England" is played by the animal marching band.  
   
   
 ## World 2: Battle of the Cowshed  
@@ -56,20 +55,14 @@ The farm is renamed "Animal Farm" and "All animals are equal" is painted in larg
   
 ### 2.1 - Animalism  
   
-Food is plentiful, and the farm runs smoothly. Napoleon visits the farm animals  
-and speaks to each of them. With each visit, Napoleon gives them a scroll of the  
-"Principles of Animalism". During each visit the animal repeats one of the  
-Principles and comments on it.  
+Food is plentiful, and the farm runs smoothly. Napoleon visits the farm animals and speaks to each of them. With each visit, Napoleon gives them a scroll of the "Principles of Animalism". During each visit the animal repeats one of the Principles and comments on it.  
   
   
 ### 2.2 - The Ambush  
   
-The pigs elevate themselves to positions of leadership and set aside special food  
-items, ostensibly for their personal health.  
+The pigs elevate themselves to positions of leadership and set aside special food items, ostensibly for their personal health.  
   
-After a short period of gathering supplies and power, animals ambush a band of farmers  
-coming to attack the farm. The farmers quickly scatter before any damage can be  
-inflicted. Several animals are gored and die quickly, splattering blood everywhere.  
+After a short period of gathering supplies and power, animals ambush a band of farmers coming to attack the farm. The farmers quickly scatter before any damage can be inflicted. Several animals are gored and die quickly, splattering blood everywhere.  
   
   
 ### 2.3 - Avenge  
@@ -77,11 +70,9 @@ inflicted. Several animals are gored and die quickly, splattering blood everywhe
 Napoleon must avenge their death and defends the farm defeating farmer after  
 farmer in various scenes and mini battles. Napoleon battles his way back to the barn.  
   
-The world ends with a rematch with Mr. Jones. He has better weapons and significantly  
-harder to defeat.  
+The world ends with a rematch with Mr. Jones. He has better weapons and significantly harder to defeat.  
   
-Upon winning the battle, the animals celebrate Napoleon and he decrees, let's build  
-a windmill! With the decree a canon is fired ushering in his leadership.  
+Upon winning the battle, the animals celebrate Napoleon and he decrees, let's build a windmill! With the decree a canon is fired ushering in his leadership.  
   
   
   
@@ -91,36 +82,36 @@ a windmill! With the decree a canon is fired ushering in his leadership.
   
 ### 3.1 - The Chase  
   
-During this world, the "Commandments of Animalism" are emphasized in an argument  
-between Napoleon and the animals building the windmill, gets angry, and chases  
-the animals through fun physics problems and puzzles to climb the hill. He  
-stands like a human as he solves the puzzles.  
+During this world, the "Commandments of Animalism" are emphasized in an argument between Napoleon and the animals building the windmill, gets angry, and chases the animals through fun physics problems and puzzles to climb the hill. He stands like a human as he solves the puzzles.  
   
-Upon reaching the top of the hill, the windmill is put into operation and the  
-"All animals are equal" sign on the barn is lit up with vintage light bulbs.  
+Upon reaching the top of the hill, the windmill is put into operation and the  "All animals are equal" sign on the barn is lit up with vintage light bulbs.  
   
   
-### 3.2 - The Storm
+### 3.2 - The Storm  
   
-On the hillside, Napoleon climbs into the trees and meets the animals. As he  
-meets them, they either help him or not. If they do not, Napoleon kills them.  
+On the hillside, Napoleon climbs into the trees and meets the animals. As he meets them, they either help him or not. If they do not, Napoleon kills them.
   
 The wind is ripping, lightning crashing and rain falling foreboding.
+
+As the level ends, Napoleon celebrates by changing the commandments to:
+4.  No animal shall sleep in a bed  **with sheets.**
+5.  No animal shall drink alcohol  **to excess.**
+6.  No animal shall kill any other animal  **without cause.**
+
   
 ### 3.3 - The Explosion  
+  
+Mr Frederick, a neighboring farmer, attacks the farm, using blasting powder to blow up the restored windmill. Although the animals win the battle, they do so at great cost, as many, including Boxer, the workhorse, are wounded.  
 
-Mr Frederick, a neighboring farmer, attacks the farm, using blasting powder to blow up the restored windmill.  Although the animals win the battle, they do so at great cost, as many, including Boxer, the workhorse, are wounded.
-
-
+Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a greedy dictator and drive him out. 
   
   
   
-## World 4: Road to City Hall
-
-### 4.1 - Highway to the City
-
-
-
-### 4.2 - The Bridge
-
+## World 4: Road to City Hall  
+  
+### 4.1 - Highway to the City  
+  
+  
+### 4.2 - The Bridge  
+  
 ### 4.3 - The Coup
