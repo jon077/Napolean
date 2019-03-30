@@ -120,8 +120,13 @@ Angel is larger, Napoleon swims across the sound and meets Pixie Meat under the 
 Joins the band, rocks out several songs, culminating with the animals coming to see him.  When they see him, they start throwing fruit and trash at the stage, but he continues to rock out.  As he rocks out, he realizes the error of his ways.
 
 ### 4.4 - The Redemption
-After the show, the animals get aboard the bus.  Once every one is aboard, Mr Frederick tricks the bus driver and gets aboard the bus with plans to drive the bus off the bridge.  Napoleon hears their scream and Pixie Meat shouts for him to save them.  Realizing his destiny, Napoleon assumes the pig form and chases the bus through the city.   Racing through the city dodg
+After the show, the animals get aboard the bus.  Once every one is aboard, Mr Frederick tricks the bus driver and gets aboard the bus with plans to drive the bus off the bridge.  Napoleon hears their scream and Pixie Meat shouts for him to save them.  Realizing his destiny, Napoleon assumes the pig form and chases the bus through the city.   Racing through the city dodging obstacles, the chase ends on the bridge.
+
+On the bridge, the animals witness the final showdown where Napoleon kills Mr Frederick by throwing him off the bridge.  As Mr Frederick falls off the bridge, he reaches out and grabs Napoleon by the ankles and k
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzc0MDkwMyw0NzIzMjU1MzEsMTYzMz
+eyJoaXN0b3J5IjpbMTMxOTc4NTMyNiw0NzIzMjU1MzEsMTYzMz
 gwMzIwNSwtNDY2MjYzNjkzLDIwNjIyMDQwNDldfQ==
 -->
