@@ -111,12 +111,15 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
 ## World 4: Road to City Hall  
   
 ### 4.1 - Highway to the City  
-
+Sees the angel, frogger style level
   
 ### 4.2 - The Bridge  
+Angel is larger, swims across the sound and meets the guitarist under the bridge.
   
 ### 4.3 - The Coup
+Joins the band, rocks out
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMzgwMzIwNSwtNDY2MjYzNjkzLDIwNj
-IyMDQwNDldfQ==
+eyJoaXN0b3J5IjpbMTEyNjcxOTgwOSwxNjMzODAzMjA1LC00Nj
+YyNjM2OTMsMjA2MjIwNDA0OV19
 -->
