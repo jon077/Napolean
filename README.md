@@ -111,11 +111,12 @@ Mr Frederick is a mini-boss, once defeated, the animals realize Napoleon is a gr
 ## World 4: Road to City Hall  
   
 ### 4.1 - Highway to the City  
- Test
+
   
 ### 4.2 - The Bridge  
   
 ### 4.3 - The Coup
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjI2MzY5MywyMDYyMjA0MDQ5XX0=
+eyJoaXN0b3J5IjpbMTYzMzgwMzIwNSwtNDY2MjYzNjkzLDIwNj
+IyMDQwNDldfQ==
 -->
