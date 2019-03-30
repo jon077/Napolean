@@ -117,9 +117,11 @@ Sees the angel, frogger style level
 Angel is larger, swims across the sound and meets the guitarist under the bridge.
   
 ### 4.3 - The Coup
-Joins the band, rocks out
+Joins the band, rocks out several songs, culminating with the animals coming to see him.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNjcxOTgwOSwxNjMzODAzMjA1LC00Nj
-YyNjM2OTMsMjA2MjIwNDA0OV19
+eyJoaXN0b3J5IjpbNDcyMzI1NTMxLDE2MzM4MDMyMDUsLTQ2Nj
+I2MzY5MywyMDYyMjA0MDQ5XX0=
 -->
